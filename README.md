@@ -9,4 +9,4 @@
 **Kurulum Talimatları:** <br>
 1. Gerekli malzemeleri temin edin<br>
 2. [Arduino IDE İndirin](https://www.arduino.cc/en/software) <br>
-3. Kod dosyasını açın ve yükleyin
+3. [Kod dosyasını açın ve yükleyin] (https://github.com/Xiast-sw/Akilli-Ev/blob/main/AkilliEv.ino)
