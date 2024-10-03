@@ -1,4 +1,4 @@
 ### Akıllı Ev
 
-**Proje Adı:** Akıllı Ev Sistemi
+**Proje Adı:** Akıllı Ev Sistemi <br>
 **Proje Açıklaması:** 
