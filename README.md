@@ -7,6 +7,6 @@
 **Kullanılan Malzemeler ve Teknolojiler:** Arduino IDE(C/C++), Arduino UNO, Gaz Sensörü(MQ-9), Alev Sensörü, Hareket Algılama Sensörü(HC-SR501), Isı ve Nem Ölçme Sensörü(Dht11), Buzzer, Led, 12v Fan, LCD Display 4x20, HC06 Bluetooth Modül Kartı
 
 **Kurulum Talimatları:** <br>
-1.Gerekli malzemeleri temin edin<br>
-2.Arduino IDE'yi indirin ve kurun<br>
-3.Kod dosyasını açın ve yükleyin
+1. Gerekli malzemeleri temin edin<br>
+2. [Arduino IDE İndirin](https://www.arduino.cc/en/software) <br>
+3. Kod dosyasını açın ve yükleyin
