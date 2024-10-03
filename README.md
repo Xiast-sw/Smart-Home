@@ -9,4 +9,8 @@
 **Kurulum Talimatları:** <br>
 1. Gerekli malzemeleri temin edin<br>
 2. [Arduino IDE İndirin](https://www.arduino.cc/en/software) <br>
-3. [Kod dosyasını açın ve yükleyin](https://github.com/Xiast-sw/Akilli-Ev/blob/main/AkilliEv.ino)
+3. Gerekli kütüphaneleri yükleyin:<br>
+     -LiquidCrystal_I2C library<br>
+     -dht11 library<br>
+     -EEPROM library<br>
+5. [Kod dosyasını açın ve yükleyin](https://github.com/Xiast-sw/Akilli-Ev/blob/main/AkilliEv.ino)
