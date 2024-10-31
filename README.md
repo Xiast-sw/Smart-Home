@@ -17,11 +17,12 @@ This project aims to develop a smart home system that allows users to manage the
 - 4x20 LCD Display
 - HC-06 Bluetooth Module
 
-**Kurulum Talimatları:** <br>
-1. Gerekli malzemeleri temin edin<br>
-2. [Arduino IDE İndirin](https://www.arduino.cc/en/software) <br>
-3. Gerekli kütüphaneleri yükleyin:<br>
-     -LiquidCrystal_I2C library<br>
-     -dht11 library<br>
-     -EEPROM library<br>
-5. [Kod dosyasını açın ve yükleyin](https://github.com/Xiast-sw/Akilli-Ev/blob/main/AkilliEv.ino)
+Installation Instructions:
+
+- Gather the necessary materials.
+-  [Download Arduino IDE.](https://www.arduino.cc/en/software)
+- Install the required libraries:
+     - LiquidCrystal_I2C library
+     - DHT11 library
+     - EEPROM library
+- [Open and upload the code file.](https://github.com/Xiast-sw/Akilli-Ev/blob/main/AkilliEv.ino)
