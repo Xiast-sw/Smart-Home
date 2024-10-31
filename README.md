@@ -1,4 +1,4 @@
-### Akıllı Ev
+# Smart Home
 
 **Proje Adı:** Akıllı Ev Sistemi <br>
 
